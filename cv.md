@@ -2,9 +2,9 @@ Ali Kurban
 ============
 
 -------------------     ----------------------------
-Aubakirov st.                   kurban.lee@gmail.com
-Almaty                          	  insta: Kurlyli
-Kazakhstan                              +77787444933
+Aubakirov st.,                    kurban.lee@gmail.com,
+Almaty,                          	  insta: Kurlyli
+Kazakhstan.                             +77787444933,
 -------------------     ----------------------------
 
 Education
@@ -23,14 +23,14 @@ Experience
 * Java, Java spring boot, thymleaf
 * Automatized the daily bank reporting system. Improved work efficiency of the financial department by 340%
 
-**Kezek**Front-end Developer
+**Kezek;** Front-end Developer
 
 * Designed and implemented the core system/service
 * 2nd place in Creative Speak 2019 organized by British Council. Received a scholarship awarded by MOST(one of the biggest business incubator in Central Asia).
 * Developed a full architecture of the project from scratch using Client-server architecture
 * Developed fully in Python.
 
-**DoAtHome**Ecommerce owner
+**DoAtHome;** Ecommerce owner
 
 * Designed, implemented and launched a website for selling sports equipment to the world online.
 * Responsible for marketing strategy and advertisements: achieved 10,000+ visitors/week, 16,000€/20 days.
