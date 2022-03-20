@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aimlee.github.io/rsschool-cv/cv
